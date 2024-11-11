@@ -1,0 +1,74 @@
+#neytiri
+{
+    width: 400px;
+}
+
+#jake{
+    width:400px;
+    height:500px;
+}
+#miles{
+    width: 400px;
+}
+#body
+
+{
+    background-color:lightseagreen;
+}
+#main 
+{
+    background-color:darkslategrey;
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: groove;
+    border-radius: 55px;
+    border-top: 0cqmin;
+    box-shadow:10px 10px 10px black;
+    text-shadow: 10px 10px 10px whitesmoke;
+
+}
+
+
+#para{
+    font-size:1.5rem ;
+    background-color:darkcyan;
+}
+#main2
+{
+    background-color: darkslateblue;
+    text-align: left;
+    width: 500px;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: groove;
+    border-radius: 55px;
+    border-top: 0cqmin;
+    box-shadow:10px 10px 10px black;
+    text-shadow: 10px 10px 10px whitesmoke;
+}
+#main3
+{
+    background-color: darkolivegreen;
+    text-align: left;
+    width: 250px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: groove;
+    border-radius: 55px;
+    border-top: 0cqmin;
+    box-shadow:10px 10px 10px black;
+    text-shadow: 10px 10px 10px whitesmoke;
+}
+#main4{
+    background-color: darkolivegreen;
+    text-align: left;
+    width: 400px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: groove;
+    border-radius: 55px;
+    border-top: 0cqmin;
+    box-shadow:10px 10px 10px black;
+    text-shadow: 10px 10px 10px whitesmoke;
+}
